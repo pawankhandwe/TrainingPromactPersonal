@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\bin\Debug\net7.0\VehicleManagementSystem.exe
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\bin\Debug\net7.0\VehicleManagementSystem.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\bin\Debug\net7.0\VehicleManagementSystem.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\bin\Debug\net7.0\VehicleManagementSystem.dll
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\bin\Debug\net7.0\VehicleManagementSystem.pdb
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.dll
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\refint\VehicleManagementSystem.dll
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.pdb
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\VehicleManagementSystem.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-2\exercise-4\VehicleManagementSystem\obj\Debug\net7.0\ref\VehicleManagementSystem.dll

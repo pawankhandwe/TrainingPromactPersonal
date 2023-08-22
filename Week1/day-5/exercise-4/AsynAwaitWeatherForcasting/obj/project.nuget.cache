@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZTJvJE4Z/l69ALkPeuNJuNuQeo5ajx6ItgY52ahJVd2ooTpkLTKsDK4jnsE05AQU0CBDJjolzOfE6Pl6F81/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\four-weeks-training\\week-1\\day-5\\exercise-4\\AsynAwaitWeatherForcasting\\AsynAwaitWeatherForcasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

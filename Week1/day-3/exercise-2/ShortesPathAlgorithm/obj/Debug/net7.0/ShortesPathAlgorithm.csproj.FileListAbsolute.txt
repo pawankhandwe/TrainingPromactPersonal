@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\bin\Debug\net7.0\ShortesPathAlgorithm.exe
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\bin\Debug\net7.0\ShortesPathAlgorithm.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\bin\Debug\net7.0\ShortesPathAlgorithm.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\bin\Debug\net7.0\ShortesPathAlgorithm.dll
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\bin\Debug\net7.0\ShortesPathAlgorithm.pdb
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.dll
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\refint\ShortesPathAlgorithm.dll
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.pdb
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ShortesPathAlgorithm.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-3\exercise-2\ShortesPathAlgorithm\obj\Debug\net7.0\ref\ShortesPathAlgorithm.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.exe
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\bin\Debug\net7.0\CovariantAndContravariantGenerics.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\refint\CovariantAndContravariantGenerics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\CovariantAndContravariantGenerics.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-2\CovariantAndContravariantGenerics\obj\Debug\net7.0\ref\CovariantAndContravariantGenerics.dll

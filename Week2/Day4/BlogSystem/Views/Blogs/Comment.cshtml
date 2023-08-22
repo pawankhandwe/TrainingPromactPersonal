@@ -1,0 +1,81 @@
+﻿@model BlogSystem.Models.Blog
+<div>
+    Select Blog Title: @Html.DropDownList("Id", ViewBag.Blogs as SelectList, "All Blogs Title", new { @id = "blogSelect" })
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Comment">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" id="id" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" id="titleLabel" class="form-control"  />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <input asp-for="Content"  class="form-control" />
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Save Comment" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table" id="blogTable">
+    <!-- Table content goes here -->
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // Bind onchange event to the blog title dropdown
+        $('#blogSelect').change(function () {
+            var selectedTitle = $(this).val();
+            console.log(selectedTitle);
+            filterBlogsByTitle(selectedTitle);
+        });
+
+        function filterBlogsByTitle(selectedTitle) {
+            $.ajax({
+                url: '@Url.Action("FilteredBlogs", "Blogs")',
+                data: { blogid: selectedTitle },
+                type: 'get',
+                success: function (data) {
+                    console.log(data);
+                    if (data) {
+                        $("#id").val(data.id);
+                        $('#titleLabel').val(data.title); // Update the label with the title
+                        $('#content').val(data.content); // Update the textarea with the content
+                    } else {
+                        $('#titleLabel').text(''); // Clear the label
+                        $('#content').val(''); // Clear the textarea
+                    }
+                }
+            });
+        }
+
+        $('#commentForm').submit(function (event) {
+            event.preventDefault();
+            var selectedTitle = $('#blogSelect').val();
+            var editedContent = $('#content').val();
+
+            $.ajax({
+                url: '@Url.Action("Comment", "Blogs")', // Change the action and controller names
+                data: { id: selectedTitle, content: editedContent },
+                type: 'post',
+                success: function () {
+                    alert('Comment submitted successfully.');
+                },
+                error: function () {
+                    alert('Error submitting comment.');
+                }
+            });
+        });
+    });
+</script>
