@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\bin\Debug\net7.0\FileLoggerDisposableApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\bin\Debug\net7.0\FileLoggerDisposableApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\bin\Debug\net7.0\FileLoggerDisposableApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\bin\Debug\net7.0\FileLoggerDisposableApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\bin\Debug\net7.0\FileLoggerDisposableApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\refint\FileLoggerDisposableApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\FileLoggerDisposableApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-1\FileLoggerDisposableApp\obj\Debug\net7.0\ref\FileLoggerDisposableApp.dll

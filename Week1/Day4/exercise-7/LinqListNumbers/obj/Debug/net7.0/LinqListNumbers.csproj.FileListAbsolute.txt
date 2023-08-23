@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\bin\Debug\net7.0\LinqListNumbers.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\bin\Debug\net7.0\LinqListNumbers.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\bin\Debug\net7.0\LinqListNumbers.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\bin\Debug\net7.0\LinqListNumbers.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\bin\Debug\net7.0\LinqListNumbers.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\refint\LinqListNumbers.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\LinqListNumbers.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-7\LinqListNumbers\obj\Debug\net7.0\ref\LinqListNumbers.dll

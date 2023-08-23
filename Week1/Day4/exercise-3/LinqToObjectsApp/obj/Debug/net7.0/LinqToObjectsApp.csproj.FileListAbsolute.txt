@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\bin\Debug\net7.0\LinqToObjectsApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\bin\Debug\net7.0\LinqToObjectsApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\bin\Debug\net7.0\LinqToObjectsApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\bin\Debug\net7.0\LinqToObjectsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\bin\Debug\net7.0\LinqToObjectsApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\refint\LinqToObjectsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\LinqToObjectsApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-3\LinqToObjectsApp\obj\Debug\net7.0\ref\LinqToObjectsApp.dll

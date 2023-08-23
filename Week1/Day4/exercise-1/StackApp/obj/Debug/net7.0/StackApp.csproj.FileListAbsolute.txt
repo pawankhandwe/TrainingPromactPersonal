@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\bin\Debug\net7.0\StackApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\bin\Debug\net7.0\StackApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\bin\Debug\net7.0\StackApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\bin\Debug\net7.0\StackApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\bin\Debug\net7.0\StackApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\refint\StackApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\StackApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-1\StackApp\obj\Debug\net7.0\ref\StackApp.dll

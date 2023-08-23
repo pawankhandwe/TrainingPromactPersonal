@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\bin\Debug\net7.0\QueryOptimizationApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\bin\Debug\net7.0\QueryOptimizationApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\bin\Debug\net7.0\QueryOptimizationApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\bin\Debug\net7.0\QueryOptimizationApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\bin\Debug\net7.0\QueryOptimizationApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\refint\QueryOptimizationApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\QueryOptimizationApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-5\QueryOptimizationApp\obj\Debug\net7.0\ref\QueryOptimizationApp.dll

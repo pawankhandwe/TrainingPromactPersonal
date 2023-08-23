@@ -1,0 +1,17 @@
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\AsynAwaitWeatherForcasting.exe
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\AsynAwaitWeatherForcasting.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\AsynAwaitWeatherForcasting.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\AsynAwaitWeatherForcasting.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\AsynAwaitWeatherForcasting.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\refint\AsynAwaitWeatherForcasting.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\ref\AsynAwaitWeatherForcasting.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-4\AsynAwaitWeatherForcasting\obj\Debug\net7.0\AsynAwaitWeatherForcasting.csproj.CopyComplete

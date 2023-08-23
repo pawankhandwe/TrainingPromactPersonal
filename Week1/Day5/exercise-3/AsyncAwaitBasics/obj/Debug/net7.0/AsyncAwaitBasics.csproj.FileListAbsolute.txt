@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\bin\Debug\net7.0\AsyncAwaitBasics.exe
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\bin\Debug\net7.0\AsyncAwaitBasics.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\bin\Debug\net7.0\AsyncAwaitBasics.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\bin\Debug\net7.0\AsyncAwaitBasics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\bin\Debug\net7.0\AsyncAwaitBasics.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\refint\AsyncAwaitBasics.dll
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.pdb
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\AsyncAwaitBasics.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-5\exercise-3\AsyncAwaitBasics\obj\Debug\net7.0\ref\AsyncAwaitBasics.dll
