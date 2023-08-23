@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net6.0\VehicleManagementSystem.exe
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net6.0\VehicleManagementSystem.deps.json
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net6.0\VehicleManagementSystem.runtimeconfig.json
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net6.0\VehicleManagementSystem.dll
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\net6.0\VehicleManagementSystem.pdb
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.AssemblyInfo.cs
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.dll
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\refint\VehicleManagementSystem.dll
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.pdb
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\VehicleManagementSystem.genruntimeconfig.cache
+C:\Users\admin\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\net6.0\ref\VehicleManagementSystem.dll

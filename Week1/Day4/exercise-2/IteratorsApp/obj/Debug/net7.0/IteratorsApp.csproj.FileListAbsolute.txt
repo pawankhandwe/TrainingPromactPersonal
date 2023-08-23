@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\bin\Debug\net7.0\IteratorsApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\bin\Debug\net7.0\IteratorsApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\bin\Debug\net7.0\IteratorsApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\bin\Debug\net7.0\IteratorsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\bin\Debug\net7.0\IteratorsApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\refint\IteratorsApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\IteratorsApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-2\IteratorsApp\obj\Debug\net7.0\ref\IteratorsApp.dll

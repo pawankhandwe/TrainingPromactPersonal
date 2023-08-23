@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\bin\Debug\net7.0\LinqGroupAggregate.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\bin\Debug\net7.0\LinqGroupAggregate.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\bin\Debug\net7.0\LinqGroupAggregate.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\bin\Debug\net7.0\LinqGroupAggregate.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\bin\Debug\net7.0\LinqGroupAggregate.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\refint\LinqGroupAggregate.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\LinqGroupAggregate.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-8\LinqGroupAggregate\obj\Debug\net7.0\ref\LinqGroupAggregate.dll

@@ -11182,11 +11182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\BlogSystem\\BlogSystem\\BlogSystem.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\TrainingPromactPersonal\\Week2\\Day4\\BlogSystem\\BlogSystem.csproj",
       "projectName": "BlogSystem",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\BlogSystem\\BlogSystem\\BlogSystem.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\TrainingPromactPersonal\\Week2\\Day4\\BlogSystem\\BlogSystem.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\BlogSystem\\BlogSystem\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\TrainingPromactPersonal\\Week2\\Day4\\BlogSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

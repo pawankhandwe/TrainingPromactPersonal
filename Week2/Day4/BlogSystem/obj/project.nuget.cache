@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8D7ZbjZEbMmhKB0UTTLRHhUjJ03wqTjbSTid03gMUGTGXpEZleAujYqmuON8qBcqBJgfNs1grkw1EW1gnRJwCQ==",
+  "dgSpecHash": "xqjuQ01X0eS9spjHXIf3U4kKz2EnZrCTPoj3TXO6uEmokYbjU6H6BoDiw9XgxEqja+TyCSkO+y/oNlVZ10BIBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\BlogSystem\\BlogSystem\\BlogSystem.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\TrainingPromactPersonal\\Week2\\Day4\\BlogSystem\\BlogSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

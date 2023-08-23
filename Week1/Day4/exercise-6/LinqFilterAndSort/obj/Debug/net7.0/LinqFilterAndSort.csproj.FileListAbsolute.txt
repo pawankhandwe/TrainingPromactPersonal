@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\bin\Debug\net7.0\LinqFilterAndSort.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\bin\Debug\net7.0\LinqFilterAndSort.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\bin\Debug\net7.0\LinqFilterAndSort.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\bin\Debug\net7.0\LinqFilterAndSort.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\bin\Debug\net7.0\LinqFilterAndSort.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\refint\LinqFilterAndSort.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\LinqFilterAndSort.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-6\LinqFilterAndSort\obj\Debug\net7.0\ref\LinqFilterAndSort.dll

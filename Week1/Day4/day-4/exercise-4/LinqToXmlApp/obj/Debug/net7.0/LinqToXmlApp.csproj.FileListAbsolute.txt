@@ -1,0 +1,15 @@
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\bin\Debug\net7.0\LinqToXmlApp.exe
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\bin\Debug\net7.0\LinqToXmlApp.deps.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\bin\Debug\net7.0\LinqToXmlApp.runtimeconfig.json
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\bin\Debug\net7.0\LinqToXmlApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\bin\Debug\net7.0\LinqToXmlApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.csproj.AssemblyReference.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.AssemblyInfoInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.AssemblyInfo.cs
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\refint\LinqToXmlApp.dll
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.pdb
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\LinqToXmlApp.genruntimeconfig.cache
+C:\Users\admin\four-weeks-training\week-1\day-4\exercise-4\LinqToXmlApp\obj\Debug\net7.0\ref\LinqToXmlApp.dll
