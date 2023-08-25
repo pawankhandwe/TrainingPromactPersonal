@@ -1,0 +1,117 @@
+.button {
+  margin: 5px;
+  padding: 5px 10px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.button:hover {
+  background-color: #2374ab;
+  transform: scale(1.05);
+}
+
+/* Styling for the message display area */
+.message {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Styling for the input fields */
+input[type="text"],
+input[type="number"] {
+  margin: 5px;
+  padding: 5px;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to bottom, #f5f5f5, #e0e0e0);
+}
+
+/* Styling for the fetched posts list */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  background: linear-gradient(to bottom, #f5f5f5, #e0e0e0);
+}
+
+
+
+li {
+  display: flex;
+  align-items: center;
+  width: 700px;
+  margin: 10px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+li button {
+  margin-left: 10px;
+}
+
+/* Styling for the update form */
+h2 {
+  margin-top: 20px;
+}
+.button.update {
+  background-color: orange;
+  color: #333;
+}
+
+.button.delete {
+  background-color: red;
+  color: #fff;
+}
+
+.button.create {
+  background-color: green;
+  color: #fff;
+}
+
+.button:hover {
+  transform: scale(1.05);
+}
+
+/* Styling for the selected post update section */
+.selected-post {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.create-post-section {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.create-post-section h2 {
+  margin-bottom: 10px;
+}
+
+.create-post-input {
+  margin: 5px;
+  padding: 5px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
