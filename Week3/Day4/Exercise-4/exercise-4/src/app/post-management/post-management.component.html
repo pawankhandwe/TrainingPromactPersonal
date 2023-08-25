@@ -1,0 +1,31 @@
+<button class="button" (click)="togglePostsList()">Toggle Posts List</button>
+
+<div *ngIf="showPostsList">
+  <h2>Fetched Posts</h2>
+  <div *ngIf="postsList$ | async as posts; else loadingPosts">
+    <div *ngFor="let post of posts | postpipe: showPostsList">
+      {{ post.title }}
+      <button class="button update" (click)="selectPostForUpdate(post)">Update</button>
+      <button class="button delete" (click)="deletePost(post.id)">Delete</button>
+    </div>
+  </div>
+  <ng-template #loadingPosts>Loading posts...</ng-template>
+</div>
+
+<div class="message"></div>
+
+<div>
+  <h2>Create New Post</h2>
+  <input type="text" class="create-post-input" placeholder="Title" #newPostTitle>
+  <input type="text" class="create-post-input" placeholder="Body" #newPostBody>
+  <input type="number" class="create-post-input" placeholder="User ID" #newPostUserId>
+  <br>
+  <button class="button create" (click)="createNewPost(newPostTitle.value, newPostBody.value, +newPostUserId.value)">Create Post</button>
+</div>
+
+<div *ngIf="selectedPostForUpdate">
+  <h2>Update Post</h2>
+  <input type="number" placeholder="Post ID" [value]="selectedPostForUpdate.id" disabled>
+  <input type="text" placeholder="Updated Title" [value]="selectedPostForUpdate.title" #updatePostTitle>
+  <button class="button" (click)="confirmUpdatePost()">Confirm Update</button>
+</div>
