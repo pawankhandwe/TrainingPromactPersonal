@@ -1,0 +1,15 @@
+<p class="post-details-header">post-details works!</p>
+<div class="post-details">
+  <h2 class="post-details-title">Post Details</h2>
+  <div *ngIf="post" class="post-content">
+    <h3 class="post-title">TITLE:- {{ post.title }}</h3>
+    <p class="post-body">BODY:- {{ post.body }}</p>
+  </div>
+  <h3 class="comments-header">Comments</h3>
+  <ul *ngIf="comments" class="comments-list">
+    <li *ngFor="let comment of comments" class="comment">
+      <p class="comment-body">{{ comment.body }}</p>
+      <p class="comment-author"><strong>By: {{ comment.name }}</strong></p>
+    </li>
+  </ul>
+</div>

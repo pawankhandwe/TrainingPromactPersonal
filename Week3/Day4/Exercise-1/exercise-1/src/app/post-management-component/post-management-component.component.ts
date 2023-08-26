@@ -33,12 +33,12 @@ export class PostManagementComponentComponent implements OnInit {
       body: body,
       userId: userId,
     };
-    this.jsonPlaceholderService.createPost(postData).subscribe(newPost => {
-      this.createdPost = newPost;
+    // this.jsonPlaceholderService.createPost(postData).subscribe(newPost => {
+      this.createdPost = postData;
       alert('Post created successfully!');
-      this.postsList.push(newPost);
+      this.postsList.push(postData);
       this.clearInputFields();
-    });
+    // });
   }
 
   updatePost(postId: number, updatedTitle: string) {

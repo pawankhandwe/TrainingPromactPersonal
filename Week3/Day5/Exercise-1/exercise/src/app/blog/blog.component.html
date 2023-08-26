@@ -1,0 +1,17 @@
+
+
+<div class="blog-posts">
+  <h2 style="color: chocolate; font-family: 'Times New Roman', Times, serif; border: 0cqmax;">Blog Posts</h2>
+  <button class="button create-button" (click)="navigateToCreatePost()">Create New Post</button> 
+  
+  <ul>
+    <li *ngFor="let post of postsList" class="blog-post">
+      <h3 class="blog-title">{{ post.title }}</h3>
+      <p class="blog-body">{{ post.body }}</p>
+      
+      <button class="button create-button" (click)="navigateToPostDetails(post.id)">Post Details</button> 
+      <button class="button create-button" (click)="navigateToEditPost(post.id)">Edit Post</button> 
+    </li>
+  </ul>
+</div>
+
