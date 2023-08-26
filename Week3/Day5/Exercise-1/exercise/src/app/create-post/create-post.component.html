@@ -1,0 +1,16 @@
+<p>create-post works!</p>
+
+
+<div>
+  <h2>Create New Post</h2>
+  <form>
+  <input type="text" class="create-post-input" placeholder="Title" #newPostTitle>
+  <input type="text" class="create-post-input" placeholder="Body" #newPostBody>
+  <input type="number" class="create-post-input" placeholder="User ID" #newPostUserId>
+  <br>
+  <button class="button create" (click)="createPost(newPostTitle.value, newPostBody.value, +newPostUserId.value)">Create Post</button>
+</form>
+</div>
+
+
+

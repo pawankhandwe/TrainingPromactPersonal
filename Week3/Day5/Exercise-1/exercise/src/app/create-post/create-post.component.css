@@ -1,0 +1,19 @@
+input[type="text"],
+input[type="number"] {
+  margin: 5px;
+  padding: 5px;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(to bottom, #f5f5f5, #e0e0e0);
+}
+.button { margin: 5px;
+    padding: 5px;
+    width: 100px;
+    
+    background-color: lightseagreen;
+    color: #fff;border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }

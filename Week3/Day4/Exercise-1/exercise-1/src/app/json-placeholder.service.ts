@@ -16,11 +16,7 @@ export class JsonPlaceholderService {
     return this.http.get<any[]>(`${this.baseUrl}/posts?_limit=10`);
   }
 
-  createPost(postData: any): Observable<any> {
-    console.log(postData);
-    
-    return this.http.post<any>(`${this.baseUrl}/posts`, postData);
-  }
+  
 
   updatePost(postId: number, postData: any): Observable<any> {
     return this.http.put<any>(`${this.baseUrl}/posts/${postId}`, postData);

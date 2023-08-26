@@ -1,0 +1,11 @@
+<p>user-registration works!</p>
+<!-- user-registration.component.html -->
+<h2>User Registration</h2>
+<form (ngSubmit)="registerUser()" #registrationForm="ngForm">
+  <label for="username">Username:</label>
+  <input type="text" id="username" name="username" required [(ngModel)]="newUser.username">
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password" required [(ngModel)]="newUser.password">
+  <!-- ... other registration fields ... -->
+  <button type="submit">Register</button>
+</form>
