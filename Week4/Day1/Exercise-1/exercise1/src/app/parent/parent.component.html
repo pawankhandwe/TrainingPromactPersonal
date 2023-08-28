@@ -1,0 +1,14 @@
+<!-- <p>parent works!</p> -->
+<!-- <app-child [hero]="data"></app-child> -->
+
+<!-- <app-child *ngFor="let item of items" [item]="item" (remove)="removeItem($event)"></app-child> -->
+<!-- <h1>parent to child</h1> -->
+<!-- <h1> parent compoent</h1>
+<h1>Child : {{datafromchild}}</h1>
+<button (click)="ParentData()">click me to see parents message </button>
+<app-child [messagetoChild]="data" (SendDataobj)="ChilddataFunction($event)"></app-child> -->
+<!-- <h1>child to parent</h1> -->
+
+<!-- <app-child ></app-child> -->
+<!-- <button (click)="">take data from child</button> -->
+<app-child *ngFor="let string of stringArray" [inputString]="string"(stringClicked)="removeString(string)"></app-child>

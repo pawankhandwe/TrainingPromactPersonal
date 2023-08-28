@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open child.component.html",
+            "file": "c:\\Users\\admin\\source\\repos\\TrainingPromactPersonal\\Week4\\Day1\\Exercise-1\\exercise1\\src\\app\\parent\\child\\child.component.html"
+        }
+    ]
+}
