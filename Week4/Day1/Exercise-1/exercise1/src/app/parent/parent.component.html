@@ -12,3 +12,15 @@
 <!-- <app-child ></app-child> -->
 <!-- <button (click)="">take data from child</button> -->
 <app-child *ngFor="let string of stringArray" [inputString]="string"(stringClicked)="removeString(string)"></app-child>
+
+<!-- <form [formGroup]="loginform">
+    <input type="text" placeholder="username"  formControlName="username" />
+    <br>
+    <span *ngIf="username && username.invalid && username.touched" style="color: red;">invalid input field</span>
+    <br>
+    <input type="password" placeholder="password" formControlName="password"/>
+    <br>
+    <span *ngIf="password && password.invalid && password.touched" style="color: red;">invalid password field</span>
+    <br> 
+    <button (click)="loginuser()"  [disabled]="loginform.invalid" >login</button>  
+</form> -->
