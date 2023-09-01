@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Validators,FormControl,FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-parent',
@@ -6,7 +7,28 @@ import { Component } from '@angular/core';
   styleUrls: ['./parent.component.css']
 })
 export class ParentComponent {
+  loginform=new FormGroup(
+    {
+      username:new FormControl('',[Validators.required]), 
+      password:new FormControl('',[Validators.required]),
+})
+  
+  loginuser()
+  {
+    console.warn(this.loginform.value);
+    
+  }
 
+  get username()
+  {
+    // console.log(this.loginform.value);
+    
+    return this.loginform.get('username');
+  }
+  get password()
+  {
+    return this.loginform.get('password');
+  }
   stringArray: string[] = ['String 1', 'String 2', 'String 3'];
   data:string = '';
   // data={
@@ -38,4 +60,5 @@ export class ParentComponent {
   }
 
   
+
 }
